@@ -14,7 +14,7 @@ The following datasets were used in this project:
   https://hasocfire.github.io/hasoc/2019/
 
 - **Dynamically Generated Hate Dataset (v0.2.3)**  
-  https://huggingface.co/datasets/dynamically_generated_hate_speech
+  [https://huggingface.co/datasets/dynamically_generated_hate_speech](https://github.com/bvidgen/Dynamically-Generated-Hate-Speech-Dataset)
 
 Due to licensing and size constraints, datasets are not included in this repository.
 
