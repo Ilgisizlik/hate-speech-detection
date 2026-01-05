@@ -11,7 +11,7 @@ The following datasets were used in this project:
   https://github.com/t-davidson/hate-speech-and-offensive-language
 
 - **HASOC 2019 English Dataset**  
-  https://hasocfire.github.io/hasoc/2019/
+  https://hasocfire.github.io/hasoc/2019/dataset.html
 
 - **Dynamically Generated Hate Dataset (v0.2.3)**  
   https://github.com/bvidgen/Dynamically-Generated-Hate-Speech-Dataset
